@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /$
+Allow: /login.html
+Disallow: /dashboard.html
+Disallow: /editor.html
+
+Sitemap: https://notasync.alvarosiles.cloud/sitemap.xml
